@@ -1,0 +1,71 @@
+body{
+  background-color: rgb(177, 54, 52);
+  width: 100%;
+}
+
+.star{
+  margin:auto;
+  position: relative;
+  top: 15rem;
+  height: 1rem;
+  width: 30rem;
+  background-color: rgb(41,96,56);
+}
+
+#lr{
+  top: 15rem;
+}
+
+#lru{
+  top: 22.4rem;
+  rotate: 34deg;
+  right: 2.2rem;
+}
+
+#rlu{
+  rotate: -34deg;
+  top:21.5rem;
+  left: 2.3rem;
+}
+
+#lro{
+  rotate: -70deg;
+  right: 5rem;
+}
+
+#rlo{
+  rotate: 70deg;
+  left: 5rem;
+  top:14rem;
+}
+
+
+#arabic{
+  position:relative;
+  top: 36rem;
+  left: 32rem;
+}
+
+#french{
+  position:relative;
+  top: 20.5rem;
+  left: 24rem;
+}
+
+#spanish{
+  position:relative;
+  top: 19.5rem;
+  left: 62rem;
+}
+
+#darija{
+  position:relative;
+  top: 6rem;
+  left: 43.6rem;
+}
+
+#amazigh{
+  position:relative;
+  top:35rem;
+  left: 56rem;
+}
